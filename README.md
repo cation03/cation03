@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cation03
+- Hi, I’m @cation03
 - I'm in my first year of uni, majoring in Computer Science.
 - My pronouns are she/her.
 
