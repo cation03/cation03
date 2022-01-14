@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @cation03
-- 👀 I’m interested in reading, writing poetry and learning to code.
 - I'm in my first year of uni, majoring in Computer Science.
 - My pronouns are she/her.
 
