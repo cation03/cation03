@@ -1,6 +1,7 @@
 - Hi, I’m @cation03
 - I'm in my first year of uni, majoring in Computer Science.
 - My pronouns are she/her.
+- I love reading, writing and coding!
 
 <!---
 cation03/cation03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
