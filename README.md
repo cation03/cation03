@@ -1,5 +1,5 @@
 - Hi, I’m @cation03
-- I'm in my first year of uni, majoring in Computer Science.
+- I'm in my second year of uni, majoring in Computer Science.
 - My pronouns are she/her.
 
 <!---
