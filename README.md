@@ -1,4 +1,4 @@
-# ✨Hi, I’m @cation03
+# ✨Hi, I’m Ananya!
 - I'm an undergraduate at IIIT Delhi, majoring in Computer Science.
 - I'm interested in Algorithms, Open Source, Operating Systems, Philosophy and Literature.
 - I'm currently exploring the Open Source world and Algorithm Design.
